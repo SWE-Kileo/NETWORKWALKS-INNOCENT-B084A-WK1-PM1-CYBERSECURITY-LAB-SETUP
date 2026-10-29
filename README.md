@@ -34,7 +34,7 @@ Configured the static IP `10.0.0.2/24` inside Kali using `nmcli`.
 
 ### 7. Snapshot
 Took a clean snapshot of the finished lab.
-![Snapshot](screenshots/08-snapshot.jpg)
+![Snapshot](08-snapshot.jpg)
 
 ## Troubleshooting
 
