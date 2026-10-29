@@ -10,7 +10,7 @@ I Built an isolated virtual lab for cybersecurity practice with Kali Linux, NAT 
 
 ### 1. VirtualBox and Kali Installation
 Imported the pre-built Kali Linux VirtualBox image.
-![VM Running](01-vm-running.jpg)
+![VM Running](01-vm-running.png)
 
 ### 2. NAT Network Configuration
 Created a NAT Network named `NatNetwork` with the IPv4 Prefix `10.0.0.0/24`.
