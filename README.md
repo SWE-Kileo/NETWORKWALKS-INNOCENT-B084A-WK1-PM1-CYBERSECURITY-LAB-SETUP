@@ -14,11 +14,11 @@ Imported the pre-built Kali Linux VirtualBox image.
 
 ### 2. NAT Network Configuration
 Created a NAT Network named `NatNetwork` with the IPv4 Prefix `10.0.0.0/24`.
-![NAT Network](screenshots/02-natnetwork-settings.jpg)
+![NAT Network](02-natnetwork-settings.jpg)
 
 ### 3. Kali VM Network Settings
 Attached the Kali VM to `NatNetwork` and set Promiscuous Mode to `Allow All`.
-![Kali Network Adapter](screenshots/03-kali-network-adapter.jpg)
+![Kali Network Adapter](03-kali-network-adapter.jpg)
 
 ### 4. Clipboard and Drag-and-Drop
 Enabled Bidirectional Shared Clipboard and Drag-and-Drop.
