@@ -30,7 +30,7 @@ Shared the Windows Downloads folder to Kali as `/downloads`.
 
 ### 6. Static IP Configuration
 Configured the static IP `10.0.0.2/24` inside Kali using `nmcli`.
-![IP and Internet](screenshots/06-kali-ip-config-internet.jpg)
+![IP and Internet](06-kali-ip-config-internet.jpg)
 
 ### 7. Snapshot
 Took a clean snapshot of the finished lab.
