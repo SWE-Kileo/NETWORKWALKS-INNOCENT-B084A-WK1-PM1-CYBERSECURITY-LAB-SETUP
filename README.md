@@ -22,7 +22,7 @@ Attached the Kali VM to `NatNetwork` and set Promiscuous Mode to `Allow All`.
 
 ### 4. Clipboard and Drag-and-Drop
 Enabled Bidirectional Shared Clipboard and Drag-and-Drop.
-![Clipboard Settings](screenshots/04-clipboard-dragdrop.jpg)
+![Clipboard Settings](04-clipboard-dragdrop.jpg)
 
 ### 5. Shared Folders
 Shared the Windows Downloads folder to Kali as `/downloads`.
