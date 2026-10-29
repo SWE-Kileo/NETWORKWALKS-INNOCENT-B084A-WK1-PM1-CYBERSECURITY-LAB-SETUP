@@ -26,7 +26,6 @@ Enabled Bidirectional Shared Clipboard and Drag-and-Drop.
 
 ### 5. Shared Folders
 Shared the Windows Downloads folder to Kali as `/downloads`.
-#![Shared Folder Settings](screenshots/07-shared-folder-settings.jpg)
 ![Shared Folder on Desktop](05-shared-folder-desktop.jpg)
 
 ### 6. Static IP Configuration
